@@ -1,0 +1,13 @@
+holiday_date,description,closed_flag
+2020-01-01,New Year's Day,f
+2020-01-20,MLK Day,f
+2020-02-17,President's Day,f
+2020-04-12,Easter,f
+2020-05-10,Mother's Day,f
+2020-05-25,Memorial Day,f
+2020-06-21,Father's Day,f
+2020-07-04,Independence Day,f
+2020-09-07,Labor Day,f
+2020-11-11,Veterans Days,f
+2020-11-26,Thanksgiving,t
+2020-12-25,Christmas,t
